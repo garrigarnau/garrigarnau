@@ -2,7 +2,7 @@
 
 ### 🔧 Data Engineer | Solution Architect | Technical Sales
 
-I am a Data Engineer and Solution Architect with a unique background in **Technical Sales** and **Full Stack Development**. I specialize in building robust data pipelines and accessible data products, bridging the gap between raw infrastructure, **Machine Learning/Deep Learning** models, and client-facing business solutions.
+I am a Data Engineer with a unique background in **Technical Sales** and **Full Stack Development**. I specialize in building robust data pipelines and accessible data products, bridging the gap between raw infrastructure, **Machine Learning/Deep Learning** models, and client-facing business solutions.
 
 ---
 
