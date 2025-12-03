@@ -1,6 +1,6 @@
 # Hi there! I'm Arnau Garriga Torné 👋
 
-### 🔧 Data Engineer | Solution Architect | Technical Sales
+### 🔧 Data Engineer | Full Stack | Technical Sales
 
 I am a Data Engineer with a unique background in **Technical Sales** and **Full Stack Development**. I specialize in building robust data pipelines and accessible data products, bridging the gap between raw infrastructure, **Machine Learning/Deep Learning** models, and client-facing business solutions.
 
@@ -16,7 +16,7 @@ I am a Data Engineer with a unique background in **Technical Sales** and **Full 
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Solution Architecture & Web**
+**Full Stack development & Web**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -27,14 +27,14 @@ I am a Data Engineer with a unique background in **Technical Sales** and **Full 
 
 ### 🔭 Current Focus & Experience
 
-**💼 Co-Founder & Solutions Architect (Personal Project)**
+**💼 Co-Founder & Full Stack developer (Personal Project)** *(May 2025 - present)*
 *Building automation and digital platforms for legal and industrial sectors.*
 - **Legal Tech:** Built a Hybrid **RAG + Knowledge Graph** system for HR Q&A and an **OCR pipeline** processing 7,000+ sensitive documents/month.
 - **Industrial:** Developed a productized **MRP2 system** for construction resource planning.
 
-**🤖 Junior Technical Sales Engineer Intern @ Aizon**
+**🤖 Junior Technical Sales Engineer Intern @ Aizon** *(Jan 2025 - present)*
 - **Technical Sales for Pharma:** Strategizing, preparing, and delivering high-stakes technical product demos for **major pharmaceutical clients**.
-- **Frontend & Tooling:** Developing tools to enhance demo effectiveness and building **React dashboards** for the Solutions team.
+- **Frontend & Tooling:** Developing tools to enhance demo effectiveness and building **React solutions** for the Solutions team.
 - **AI Innovation:** Collaborating on **RAG systems** and automation tools using Python.
 
 ---
