@@ -1,33 +1,51 @@
-# Arnau Garriga Torné
+# Hi, I'm Arnau Garriga Torné 👋
 
-> **Data Engineer with a Full-Stack Mindset.**
-> [cite_start]currently studying Data Engineering at UAB[cite: 9, 10].
+### 🚀 Data Engineer | Full Stack Developer | AI Solutions
 
-[cite_start]I specialize in **Python** and **JavaScript**  to create systems that process data and present it visually. [cite_start]My focus ranges from Machine Learning and Clustering [cite: 13] [cite_start]to building interactive React Dashboards.
-
-### 💻 Technical Proficiency
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, Java |
-| **Data & AI** | [cite_start]RAG Systems, Knowledge Graphs, OCR, Pandas, Scikit-learn [cite: 13] |
-| **Web Dev** | React.js, HTML, CSS, REST APIs |
-| **Cloud/Ops** | [cite_start]Google Cloud Services [cite: 21][cite_start], Virtual Machines, Cron Jobs [cite: 30] |
-
-### 🚀 Key Projects
-
-#### ⚖️ Legal Firm AI Automation
-*Co-founder / Lead Developer*
-Designed a **Hybrid RAG system** to automate internal HR queries and an **OCR retrieval pipeline** to manage high-risk documentation for a 300+ employee firm.
-
-#### 🏭 Construction MRP2 Platform
-*Full Stack Developer*
-Designed and productized a tailored Material Requirements Planning system for a pool-construction company, managing budgeting, pricing, and project timelines.
-
-#### 🚚 Route Optimization Logic
-*Developer @ Carns Romeu*
-[cite_start]Implemented a logistics model using **Google Maps API** and **Python** to optimize distribution routes[cite: 17, 21].
+[cite_start]I am a Data Engineering student [cite: 10] and Co-founder specializing in building end-to-end data products. I bridge the gap between complex backend logic (AI/RAG/Automation) and user-friendly frontend interfaces.
 
 ---
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile-link) &nbsp; [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/garrigarnau)
+### 🛠️ Tech Stack
+
+**Core Engineering**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**AI & Automation**
+![RAG](https://img.shields.io/badge/-RAG_Systems-FF6F00?style=flat)
+![OCR](https://img.shields.io/badge/-OCR_Pipelines-00C853?style=flat)
+![Scraping](https://img.shields.io/badge/-Web_Scraping-EA4335?style=flat)
+
+**Frontend & Web**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+### 🔭 Current Work & Ventures
+
+**💼 Co-Founder & Solutions Architect (Personal Project)**
+*Building automation and digital platforms for legal and industrial sectors.*
+- **Legal Tech:** Built a Hybrid **RAG + Knowledge Graph** system for HR Q&A (200+ pages) and an **OCR pipeline** processing 7,000+ sensitive documents/month.
+- **Industrial:** Developed a full-stack **MRP2 system** for construction resource planning.
+
+**🤖 Junior Technical Sales Engineer Intern @ Aizon**
+- Developing **React dashboards** for the Solutions team.
+- Building **RAG systems** and automation tools with the AI & Innovation team.
+- Creating technical demos for major pharmaceutical clients.
+
+---
+
+### 📜 Past Experience
+* [cite_start]**Lawwing:** Data Analyst focusing on PDF parsing, web scraping, and cron job automation[cite: 30].
+* [cite_start]**Carns Romeu:** Developed route optimization models using Google Maps API & Python[cite: 17, 21].
+* [cite_start]**Enna Women:** Built automated data collection programs for market analysis[cite: 24].
+
+---
+
+### 📊 GitHub Stats
+![Arnau's Stats](https://github-readme-stats.vercel.app/api?username=garrigarnau&show_icons=true&theme=radical)
