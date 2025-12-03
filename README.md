@@ -1,51 +1,55 @@
-# Hi, I'm Arnau Garriga Torné 👋
+# Hi there! I'm Arnau Garriga Torné 👋
 
-### 🚀 Data Engineer | Full Stack Developer | AI Solutions
+### 🔧 Data Engineer | Solution Architect | Technical Sales
 
-[cite_start]I am a Data Engineering student [cite: 10] and Co-founder specializing in building end-to-end data products. I bridge the gap between complex backend logic (AI/RAG/Automation) and user-friendly frontend interfaces.
+I am a Data Engineer and Solution Architect with a unique background in **Technical Sales** and **Full Stack Development**. I specialize in building robust data pipelines and accessible data products, bridging the gap between raw infrastructure, **Machine Learning/Deep Learning** models, and client-facing business solutions.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Core Engineering**
+**Data Engineering & AI**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**AI & Automation**
-![RAG](https://img.shields.io/badge/-RAG_Systems-FF6F00?style=flat)
-![OCR](https://img.shields.io/badge/-OCR_Pipelines-00C853?style=flat)
-![Scraping](https://img.shields.io/badge/-Web_Scraping-EA4335?style=flat)
-
-**Frontend & Web**
+**Solution Architecture & Web**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_Systems-00C853?style=flat)
+![Architecture](https://img.shields.io/badge/-Solution_Architecture-623CE4?style=flat)
 
 ---
 
-### 🔭 Current Work & Ventures
+### 🔭 Current Focus & Experience
 
 **💼 Co-Founder & Solutions Architect (Personal Project)**
 *Building automation and digital platforms for legal and industrial sectors.*
-- **Legal Tech:** Built a Hybrid **RAG + Knowledge Graph** system for HR Q&A (200+ pages) and an **OCR pipeline** processing 7,000+ sensitive documents/month.
-- **Industrial:** Developed a full-stack **MRP2 system** for construction resource planning.
+- **Legal Tech:** Built a Hybrid **RAG + Knowledge Graph** system for HR Q&A and an **OCR pipeline** processing 7,000+ sensitive documents/month.
+- **Industrial:** Developed a productized **MRP2 system** for construction resource planning.
 
 **🤖 Junior Technical Sales Engineer Intern @ Aizon**
-- Developing **React dashboards** for the Solutions team.
-- Building **RAG systems** and automation tools with the AI & Innovation team.
-- Creating technical demos for major pharmaceutical clients.
+- **Technical Sales for Pharma:** Strategizing, preparing, and delivering high-stakes technical product demos for **major pharmaceutical clients**.
+- **Frontend & Tooling:** Developing tools to enhance demo effectiveness and building **React dashboards** for the Solutions team.
+- **AI Innovation:** Collaborating on **RAG systems** and automation tools using Python.
 
 ---
 
 ### 📜 Past Experience
-* [cite_start]**Lawwing:** Data Analyst focusing on PDF parsing, web scraping, and cron job automation[cite: 30].
-* [cite_start]**Carns Romeu:** Developed route optimization models using Google Maps API & Python[cite: 17, 21].
-* [cite_start]**Enna Women:** Built automated data collection programs for market analysis[cite: 24].
+
+* **Data Analyst @ Lawwing** *(Sept 2024 - Jan 2025)*
+  Developed automated processing systems for lead generation and PDF parsing using web scraping and cron jobs.
+* **(Freelance) Optimization Model Developer @ Meet distributor** *(Jan 2023 - June 2023)*
+  Created route optimization algorithms using **Python** and **Google Maps API** to improve logistics efficiency.
+* **(Freelance) Data Program Developer @ Enna Women** *(Nov 2022 - Jan 2023)*
+  Built custom data collection and visualization programs for market analysis.
 
 ---
 
-### 📊 GitHub Stats
-![Arnau's Stats](https://github-readme-stats.vercel.app/api?username=garrigarnau&show_icons=true&theme=radical)
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/arnau-garriga-696991163/)
+- [Email](mailto:arnaugarrigatorne@gmail.com)
