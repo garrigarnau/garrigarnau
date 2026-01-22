@@ -41,7 +41,7 @@ I am a Data Engineer with a unique background in **Technical Sales** and **Full 
 
 ### 📜 Past Experience
 
-* **Data Analyst @ Lawwing** *(Sept 2024 - Jan 2025)*
+* **Data Scientist and Product automation @ Lawwing** *(Sept 2024 - Jan 2025)*
   Developed automated processing systems for lead generation and PDF parsing using web scraping and cron jobs.
 * **(Freelance) Optimization Model Developer @ Meet distributor** *(Jan 2023 - June 2023)*
   Created route optimization algorithms using **Python** and **Google Maps API** to improve logistics efficiency.
