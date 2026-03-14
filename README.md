@@ -32,10 +32,10 @@ I am a Data Engineer with a unique background in **Technical Sales** and **Full 
 - **Legal Tech:** Built a Hybrid **RAG + Knowledge Graph** system for HR Q&A and an **OCR pipeline** processing 7,000+ sensitive documents/month.
 - **Industrial:** Developed a productized **MRP2 system** for construction resource planning.
 
-**🤖 Junior Technical Sales Engineer Intern @ Aizon** *(Jan 2025 - present)*
+**🤖 Technical Sales Engineer @ Aizon** *(Jan 2025 - present)*
 - **Technical Sales for Pharma:** Strategizing, preparing, and delivering high-stakes technical product demos for **major pharmaceutical clients**.
 - **Frontend & Tooling:** Developing tools to enhance demo effectiveness and building **React solutions** for the Solutions team.
-- **AI Innovation:** Collaborating on **RAG systems** and automation tools using Python.
+- **AI Innovation:** Collaborating on **RAG systems** and automation tools.
 
 ---
 
